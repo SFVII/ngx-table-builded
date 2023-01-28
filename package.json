@@ -1,5 +1,5 @@
 {
-  "name": "@nowbrains/ngx-table",
+  "name": "ngx-table",
   "version": "1.0.72",
   "dependencies": {
     "tslib": ">=2.x"
